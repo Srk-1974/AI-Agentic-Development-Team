@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables - DO NOT COMMIT
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
